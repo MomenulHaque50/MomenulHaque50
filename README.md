@@ -27,10 +27,20 @@
 <a href="https://twitter.com/momenul50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="momenul50" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/momenul-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="momenul-haque" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15872029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15872029" height="30" width="40" /></a>
-<a href="https://kaggle.com/momenulhaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="momenulhaque" height="30" width="40" /></a>
 <a href="https://instagram.com/momenul_c50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="momenul_c50" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mominul50" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mominul50" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mominul_50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mominul_50" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left">My Research Profile:</h3>
+<p align="left">
+<a href="https://kaggle.com/momenulhaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="momenulhaque" height="30" width="40" /></a>
+<a href="https://www.researchgate.net/profile/Md-Momenul-Haque" target="blank"><img align="center" src="https://github.com/MomenulHaque50/Certificates/blob/master/researchgate.svg" alt="Md-Momenul-Haque" height="30" width="40" /></a>
+<a href="https://www.webofscience.com/wos/author/record/GXA-2249-2022" target="blank"><img align="center" src="https://github.com/MomenulHaque50/Certificates/blob/master/publons.svg" alt="GXA-2249-2022" height="30" width="40" /></a>
+<a href="https://orcid.org/0000-0002-7327-6249" target="blank"><img align="center" src="https://github.com/MomenulHaque50/Certificates/blob/master/orchid.svg" alt="0000-0002-7327-6249" height="30" width="40" /></a>
+<a href="https://scholar.google.com/" target="blank"><img align="center" src="https://github.com/MomenulHaque50/Certificates/blob/master/Google-Scholar.svg" alt="momenulhaque" height="30" width="40" /></a>
+<a href="https://bauet.academia.edu/MominulHaque" target="blank"><img align="center" src="https://github.com/MomenulHaque50/Certificates/blob/master/academia.svg" alt="momenul_c50" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
