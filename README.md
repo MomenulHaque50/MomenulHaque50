@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momenulhaque50" alt="momenulhaque50" /></a> </p>
 
-- 🔭 I’m currently working on **IoT Smart System, Blockchain, Bangla OCR, and Medical Image Processing **
+- 🔭 I’m currently working on **IoT Smart System, Blockchain, Bangla OCR, and Medical Image Processing**
 
 - 🌱 I’m currently learning **Quantum Machine Learning and Autoencoders Architecture**
 
